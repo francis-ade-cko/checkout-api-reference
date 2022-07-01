@@ -78,7 +78,7 @@ properties:
         minLength: 2
       date_of_expiry:
         type: string
-        description: The payout destination owner's ID expiry date
+        description: The payout destination owner's ID expiry date. Format 'yyyy-MM-dd'
         maxLength: 10
         minLength: 10
   email:
