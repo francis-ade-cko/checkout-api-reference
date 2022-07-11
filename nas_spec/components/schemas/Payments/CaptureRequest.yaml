@@ -23,8 +23,6 @@ properties:
     $ref: '#/components/schemas/CustomerRequest'
   shipping:
     type: object
-    description:
-    type: object
     description: The shipping details
     properties:
       address:
