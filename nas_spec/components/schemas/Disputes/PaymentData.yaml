@@ -47,7 +47,10 @@ properties:
         example: Y
       version:
         type: string
-        description: Indicates the version of 3D Secure that was used for authentication
+        description: >
+          Indicates the version of 3D Secure that was used for authentication
+          If you specify 1.0.2, we will use that version specifically
+          If we specify 2, we will use the highest available version of the 3DS 2 protocol
         example: '2'
   eci:
     type: string
