@@ -48,7 +48,7 @@ properties:
       version:
         type: string
         description: Indicates the version of 3D Secure that was used for authentication
-        example: '2.1.0'
+        example: '2'
   eci:
     type: string
     description: |

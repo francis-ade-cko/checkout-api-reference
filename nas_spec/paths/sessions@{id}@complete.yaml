@@ -18,7 +18,7 @@ post:
        "authentication_category": "payment",
        "reference": "ORD-5023-4E89",
        "approved": true,
-       "protocol_version": "2.1.0",
+       "protocol_version": "2",
        "response_code": "Y",
        "response_reason": "01",
        "cryptogram": "MTIzNDU2Nzg5MDA5ODc2NTQzMjE=",
